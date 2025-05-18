@@ -25,7 +25,6 @@
 ### 3. Testing and Evaluation
 - Test online via https://plus-also-challenge-front-end.onrender.com/
 
-- The password on the home page is: `goodday`
 
 - Just follow the steps:  
 
