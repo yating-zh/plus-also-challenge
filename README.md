@@ -2,7 +2,7 @@
 
 ### 1. Introduction
 
-- This is an MVP of an AI image enhancer application, allowing users to upload an image and edit it by adding prompts. 
+- This is an demo of an AI image enhancer application, allowing users to upload an image and edit it by adding prompts. 
 
 - The tech stack is MERN. As I only started self-teaching MERN two weeks ago, this challenge helped me realise there is still a lot to learn.
 
