@@ -46,7 +46,7 @@ function UploadPage() {
     try {
       setSubmitting(true);
       setError(null);
-      const res = await axios.post("http://localhost:3001/generate", formData, {
+      const res = await axios.post(`${import.meta.env.VITE_BACKEND_URL}/generate`, formData, {
         headers: { "Content-Type": "multipart/form-data" },
       });
       const output = Array.isArray(res.data.output)
