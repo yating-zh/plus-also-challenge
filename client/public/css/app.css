@@ -1,0 +1,27 @@
+/*.navbar-nav .nav-link {
+    font-size: 1.5rem;
+  }*/
+
+  body {
+
+  font-family: "Roboto Flex", sans-serif;
+  font-optical-sizing: auto;
+
+ 
+    }
+
+  p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+*, ::after, ::before {
+  box-sizing: border-box;}
+  .text-center {
+    text-align: center !important;
+}
